@@ -9,7 +9,7 @@
 * matplotlib
 * seaborn 
 * sklearn
-* sklearn.pipelineюPipeline
+* sklearn.pipeline.Pipeline
 * sklearn.linear_model.LogisticRegression
 * sklearn.neighbors.KNeighborsClassifier
 * sklearn.tree.DecisionTreeClassifier
