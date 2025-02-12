@@ -14,7 +14,6 @@
 * sklearn.neighbors.LGBMRegressor
 * catboost.CatBoostRegressor
 * sklearn.ensemble.RandomForestRegressor
-* sklearn.svm.SVC
 * sklearn.model_selection.GridSearchCV
 * sklearn.metrics.mean_absolute_error
 * sklearn.metrics.r2_score
