@@ -7,15 +7,16 @@
 * pandas
 * numpy
 * matplotlib
+* seaborn 
 * sklearn
-* statsmodels.tsa.seasonal.seasonal_decompose
-* sklearn.linear_model.LinearRegression
-* lightgbm.LGBMRegressor
-* catboost.CatBoostRegressor
-* sklearn.metrics.root_mean_squared_error
-* klearn.model_selection.cross_val_score
-* sklearn.model_selection.GridSearchCV
-* sklearn.model_selection.TimeSeriesSplit 
+* sklearn.pipelineюPipeline
+* sklearn.linear_model.LogisticRegression
+* sklearn.neighbors.KNeighborsClassifier
+* sklearn.tree.DecisionTreeClassifier
+* sklearn.svm.SVC
+* sklearn.metrics.roc_auc_score
+* sklearn.metrics.f1_score
+
 
 ## Общий вывод
 После проведенного исследования выяснилось что для повышения покупательской активности, следует отпровлять специальные предложения тем пользователям, кто склонен покупать товары для детей по акциям. Наиболее точная модель стала SVC, её точность на тестовых данных состовляет 92%. 
