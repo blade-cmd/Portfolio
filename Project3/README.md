@@ -11,7 +11,7 @@
 * sklearn
 * sklearn.pipeline.Pipeline
 * sklearn.linear_model.LinearRegression
-* sklearn.neighbors.LGBMRegressor
+* lightgbm.LGBMRegressor
 * catboost.CatBoostRegressor
 * sklearn.ensemble.RandomForestRegressor
 * sklearn.model_selection.GridSearchCV
