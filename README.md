@@ -9,6 +9,7 @@
 | [Оптимизация производственных расходов, металлургического комбината](Project3) | Необходимо разработать модель, для контролирования температуры сплава| *python, pandas, numpy, seaborn, matplotlib, sklearn, LinearRegression, LGBM, CatBoost, RandomForest* |
 | [Персонализация предложений постоянным клиентам интернет-магазина](Project2) | Персонализация предложений постоянным клиентам, для увеличения покупательской активности.| *python, pandas, numpy, seaborn, matplotlib, sklearn, KNeighbors, DecisionTree, SVC* |
 | [Прогноз количества заказов для сервиса такси](Project1) | Прогноз количества заказов в аэропортах для сервиса такси с целью более точного планирования количества доступных автомобилей| *python, pandas, numpy, statsmodels, matplotlib, sklearn, CatBoost, LGBM* |
+| [Определение стоимости автомобилей](Project4) | Необходимо разработать модель, для определения рыночной стоимости автомобиля| *python, pandas, numpy, matplotlib, sklearn, CatBoost, LGBM* |
 
 
 
